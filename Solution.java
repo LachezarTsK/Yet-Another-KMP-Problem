@@ -1,3 +1,5 @@
+package yetAnother_KMP_Problem.Streamlined;
+
 import java.util.Scanner;
 
 public class Solution {
@@ -61,8 +63,8 @@ public class Solution {
 	 * The method has the following steps:
 	 * 
 	 * 1. If minimum frequency is greater than 2 and the character with minimum
-	 * frequency has also the smallest lexicographical value, and there are more
-	 * than two different characters, then:
+	 * frequency has also the smallest lexicographical value, and there are at least
+	 * two lexicographically different character sets, then:
 	 * 
 	 * 1.1 Put two "minimum frequency characters" at the front of the string.
 	 * 
