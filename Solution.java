@@ -1,5 +1,3 @@
-package yetAnother_KMP_Problem.Streamlined;
-
 import java.util.Scanner;
 
 public class Solution {
